@@ -1,0 +1,1 @@
+export const res = { msg: '请求成功！', code: 200, data: {} }
