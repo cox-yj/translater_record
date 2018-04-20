@@ -1,0 +1,26 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 20,
+  "editor.insertSpaces": true,
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "vue"
+  ],
+  "editor.formatOnSave": true,
+  "vsicons.projectDetection.autoReload": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "extensions.ignoreRecommendations": false,
+  "window.zoomLevel": 0,
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "workbench.colorTheme": "Monokai Dimmed",
+  "git.ignoreMissingGitWarning": true,
+  // "files.autoSave": "afterDelay"
+  "files.autoSave": "off",
+  "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe"
+}
